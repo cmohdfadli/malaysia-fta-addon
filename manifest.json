@@ -1,40 +1,16 @@
 {
-      "name": "Malaysia FTA Addon",
-        "description": "Senarai saluran TV dan Radio FTA Malaysia",
-          "channels": [
-              {
-                    "name": "TV1",
-                          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/TV1_Malaysia_logo.png/220px-TV1_Malaysia_logo.png",
-                                "url": "https://rtmklik.rtm.gov.my/tv1-live"
-                                    },
-                                        {
-                                              "name": "TV2",
-                                                    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/TV2_Malaysia_logo.png/220px-TV2_Malaysia_logo.png",
-                                                          "url": "https://rtmklik.rtm.gov.my/tv2-live"
-                                                              },
-                                                                  {
-                                                                        "name": "TV Okey",
-                                                                              "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Okey_TV_logo.png/220px-Okey_TV_logo.png",
-                                                                                    "url": "https://rtmklik.rtm.gov.my/okey-live"
-                                                                                        },
-                                                                                            {
-                                                                                                  "name": "Berita RTM",
-                                                                                                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Berita_RTM_logo.png/220px-Berita_RTM_logo.png",
-                                                                                                              "url": "https://rtmklik.rtm.gov.my/berita-live"
-                                                                                                                  },
-                                                                                                                      {
-                                                                                                                            "name": "Sukan RTM",
-                                                                                                                                  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/RTM_Sukan_logo.png/220px-RTM_Sukan_logo.png",
-                                                                                                                                        "url": "https://rtmklik.rtm.gov.my/sukan-live"
-                                                                                                                                            },
-                                                                                                                                                {
-                                                                                                                                                      "name": "TV3",
-                                                                                                                                                            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/TV3_Malaysia_logo.png/220px-TV3_Malaysia_logo.png",
-                                                                                                                                                                  "url": "https://www.tonton.com.my/live/tv3"
-                                                                                                                                                                      },
-                                                                                                                                                                          {
-                                                                                                                                                                                "name": "8TV",
-                                                                                                                                                                                      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/8TV_Malaysia_logo.png/220px-8TV_Malaysia_logo.png",
+  "id": "org.malaysia.fta",
+  "version": "1.0.0",
+  "name": "Malaysia FTA + Radio",
+  "description": "All Free-to-Air Malaysia TV & RTM Radio",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/TV3_Malaysia_logo.png/220px-TV3_Malaysia_logo.png",
+  "resources": ["stream"],
+  "types": ["tv", "radio"],
+  "catalogs": [],
+  "behaviorHints": {
+    "defaultSorting": "alphabetical"
+  }
+}                                                                                                                                                                                      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/8TV_Malaysia_logo.png/220px-8TV_Malaysia_logo.png",
                                                                                                                                                                                             "url": "https://www.tonton.com.my/live/8tv"
                                                                                                                                                                                                 },
                                                                                                                                                                                                     {

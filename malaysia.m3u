@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/TV3_Malaysia_logo.png/220px-TV3_Malaysia_logo.png", TV3
+https://www.tonton.com.my/live/tv3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/TV1_Malaysia_logo.png/220px-TV1_Malaysia_logo.png", TV1
+https://rtmklik.rtm.gov.my/tv1-live
